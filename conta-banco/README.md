@@ -1,5 +1,5 @@
 # Conta Banco 
-
+Atividade proposta pela plataforma de estudos DIO com a orietação do instrutor Gleyson Sampaio
 
 #### Autores
 - [Tuane Mendes](https://github.com/Tuanemendes)
